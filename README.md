@@ -3,6 +3,7 @@
 Dark-King FB License 2020
 
 installing
+
 $ pkg update && pkg upgrade
 
 $ pkg install git && pkg install python
