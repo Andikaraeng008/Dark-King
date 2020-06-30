@@ -16,4 +16,4 @@ $ cd Dark-King
 
 $ chmod +x dark-king.py
 
-$ python dark-king.py
+$ python dark.py
